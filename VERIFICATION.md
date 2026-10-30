@@ -1,8 +1,8 @@
 # Verification — pjos-website @ 2026-10-31
 
 - Verdict: PASS
-- Commit: `__COMMIT__` (favicon + capture harness; this document is the following commit)
-- Remote: `__REMOTE__`
+- Commit: `91f3581489b567ba11a306ea5f4824ef0a62b540` (favicon + capture harness; this document is the following commit)
+- Remote: `91f3581489b567ba11a306ea5f4824ef0a62b540`
 - Runtime: static site served by `python3 -m http.server 8098 --bind 127.0.0.1` from the repo root
 - Toolchain: node v22.23.3, Chrome 155.0.8059.84, Python 3.13
 
